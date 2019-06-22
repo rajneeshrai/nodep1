@@ -1,5 +1,6 @@
 {
 "name": "this is node project test",
 "version": "0.0.0",
-"author": "Rajneesh Rai"
+"author": "Rajneesh Rai",
+"description": "This is desccription"
 }
