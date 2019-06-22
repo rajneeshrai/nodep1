@@ -2,5 +2,6 @@
 "name": "this is node project test",
 "version": "0.0.0",
 "author": "Rajneesh Rai",
-"description": "This is desccription"
+"description": "This is desccription",
+"keywords": ["freecodecamp", "Test"]
 }
